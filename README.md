@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg"  />
+  <img width="100%" src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg" />
 </div>
+
 
 ###
 
