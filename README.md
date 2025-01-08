@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg" />
+  <img height="200" width="100%" src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg" />
 </div>
 
 
