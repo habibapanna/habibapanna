@@ -1,5 +1,11 @@
-<div align="center">
-  <img height="300" width="100%" src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg" />
+<div style="text-align: center; margin: 20px auto; max-width: 800px; border: 2px solid #ddd; border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img 
+    src="https://i.postimg.cc/4xVy3scJ/pexels-cottonbro-5473298.jpg" 
+    alt="Beautiful Scene" 
+    style="width: 100%; height: auto; display: block; transition: transform 0.3s ease, box-shadow 0.3s ease;" 
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 16px rgba(0, 0, 0, 0.2)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+  />
 </div>
 
 
