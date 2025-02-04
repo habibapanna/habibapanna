@@ -1,8 +1,8 @@
 <div align="center">
   <img 
-    src="https://i.postimg.cc/Dfswt38g/pexels-thisisengineering-3861972.jpg" 
+    src="https://i.postimg.cc/90tpkg6B/pexels-thisisengineering-3861951.jpg" 
     alt="Beautiful Scene" 
-    style="height: 300px; width: 100%; object-fit: cover; border-radius: 10px; border: 2px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
+    style="height: 100%; width: 100%; object-fit: cover; border-radius: 10px; border: 2px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
   />
 </div>
 
