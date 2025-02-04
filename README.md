@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/habiba-panna-b2851b345/" target="_blank">
+  <a href="https://www.linkedin.com/in/habiba-panna-890a0434a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 
