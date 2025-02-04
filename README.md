@@ -2,7 +2,7 @@
   <img 
     src="https://i.ibb.co.com/67k6tDwQ/pexels-thisisengineering-3861972.jpg" 
     alt="Beautiful Scene" 
-    style="height: 300px; width: 100%; object-fit: cover; border-radius: 10px; border: 2px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
+    style="height: 100%; width: 100%; object-fit: cover; border-radius: 10px; border: 2px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" 
   />
 </div>
 
